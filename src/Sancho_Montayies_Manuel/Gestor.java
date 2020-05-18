@@ -10,7 +10,7 @@ public class Gestor {
 		ListaEntrenadores miLista = new ListaEntrenadores();
 
 		// a�adiendo datos de test
-		miLista.addEntrenador("Manuel", "Sancho");
+		miLista.addEntrenador("Manuel", "Montañes");
 		miLista.searchEntrenador("Manuel", "Sancho").addAtleta("Raul", "Carrillo", "sub20");
 		miLista.searchEntrenador("Manuel", "Sancho").addAtleta("Gajarre", "paco", "sub20");
 		Entrenador aux2 = miLista.searchEntrenador("Manuel", "Sancho");
