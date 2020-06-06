@@ -1,4 +1,4 @@
-package Sancho_Montayies_Manuel;
+/*package Sancho_Montayies_Manuel;
 
 import java.util.Scanner;
 
@@ -336,3 +336,4 @@ public class Gestor {
 	}
 
 }
+*/
